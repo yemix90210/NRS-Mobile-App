@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "31112468466",
+    "project_id": "nrs-portal-8c83b",
+    "storage_bucket": "nrs-portal-8c83b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31112468466:android:511ff431cd77fc26d03d6b",
+        "android_client_info": {
+          "package_name": "app.nrsportal.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA72swWnj5T5bbCuK5Ysy7YKLJGKSpkbnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
